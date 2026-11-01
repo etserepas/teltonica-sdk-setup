@@ -25,6 +25,6 @@ In case of permission issues or missing dependencies, the script attempts to aut
 To install and set up the Teltonika SDK, run the following command:
 
 ```bash
-sudo bash -c "$(curl -o- https://raw.githubusercontent.com/efthymios-tserepas/teltonica-sdk-setup/main/teltonica.sh)"
+sudo bash -c "$(curl -o- https://raw.githubusercontent.com/etserepas/teltonica-sdk-setup/main/teltonica.sh)"
 
 
